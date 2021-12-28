@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
 <body>
-<?php ここにPHPの処理を記述 ?>
+<?php echo "hello world" ?>
 </body>
 </html>
