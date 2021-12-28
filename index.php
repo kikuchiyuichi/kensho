@@ -1,1 +1,1 @@
-<?php include_once("https://github.com/kikuchiyuichi/kensho/edit/main/einstein.html"); ?>
+<?php include_once("https://einstein-site.herokuapp.com/einstein.html"); ?>
