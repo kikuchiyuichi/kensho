@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
 <body>
-<?php echo "hello world" ?>
+<?php include_once("<htmlのファイル名>.html"); ?>
 </body>
 </html>
